@@ -1,0 +1,6 @@
+{
+  "name": "Apple Store",
+  "description": "Explore the modern Apple Store with the latest iPhone, Mac, iPad, Apple Watch, and AirPods featuring interactive configurations, trade-in, and streamlined checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
